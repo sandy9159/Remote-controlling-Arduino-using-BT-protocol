@@ -44,6 +44,32 @@ Firmata.begin(57600);
 Change this value to the correct baud rate. For USB, this value is configurable on both the device and in the Windows Remote Arduino connection parameters. If you are using Bluetooth, the baud rate depends on the device you are using.
 
 
+
+Before moving fuurther I would like to tell you something about PCB
+
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+
+but then I came to know about [JLCPCB.com](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+not only PCB [JLCPCB.com](https://jlcpcb.com/IAT) is one-stop service from  PCB design and PCB prototype to PCB assembly to PCB enclosures,
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save our time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components (689 Basic components and 200k+ Extended components)
+they are offering $27 valued New User coupon  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+Now no need to order components 
+separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled ready for the project
+Foe more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+![image](https://user-images.githubusercontent.com/19898602/134224512-bea8d1c8-9ebe-448d-bbba-0cbecb42d528.png)![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/19898602/156910379-64f60624-b0a7-4f0f-b7f9-5195693d074c.png)
+
+
 # Hardware Set Up
 
 You can always use a USB, WiFi, or Ethernet connection to get started, but let’s cover simple hook up of a Bluetooth device and an LED that we will turn on and off over Bluetooth using the Windows Remote Arduino library!
